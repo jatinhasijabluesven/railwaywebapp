@@ -13,8 +13,8 @@ Python PyQt5 library
 Python dateutil library
 
 ## Usage
-Create a vurtual environment inside raiwaywebapp directary.
-Run the Flask on ocal server
+Create a virtual environment inside raiwaywebapp directary.
+Run the Flask on local server
 Enter the station code and timestamp between which you want to view the trains.
 
 ## Web Scraping
@@ -24,4 +24,4 @@ It only gave the data in the window of +-2hours
 
 The site which gave full data of arrival and departure of trains from a particular station was </br>
 https://etrain.info/in
-Using Pyqt5 and bs4 I scrap the Html data from this site
+Using Pyqt5 and bs4 I scrapped the Html data from this site
