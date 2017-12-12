@@ -24,4 +24,4 @@ It only gave the data in the window of +-2hours
 
 The site which gave full data of arrival and departure of trains from a particular station was </br>
 https://etrain.info/in
-Using Pyqt5 and bs4 I tscrap the Html data from thi site
+Using Pyqt5 and bs4 I scrap the Html data from this site
