@@ -13,8 +13,8 @@ Python PyQt5 library
 Python dateutil library
 
 ## Usage
-Create a virtual environment inside raiwaywebapp directary.
-Run the Flask on local server
+Create a virtual environment inside raiwaywebapp directary.</br>
+Run the Flask on local server.</br>
 Enter the station code and timestamp between which you want to view the trains.
 
 ## Web Scraping
